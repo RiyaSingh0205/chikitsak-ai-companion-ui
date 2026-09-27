@@ -78,6 +78,6 @@ Chikitsak AI aims to:
 ---
 
 ## 👨‍💻 Contributors
-Aditya Singh and Team
+Aditya Singh and Riya Singh
 
 ---
